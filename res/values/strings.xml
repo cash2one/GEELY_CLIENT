@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">G-MCS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">G-MCS</string>
+	<string name="name_lable">帐  号：</string>
+    <string name="pw_lable">密  码：</string>
+    <string name="login_btn">登  录</string>
+    <string name="back_btn">返  回</string>
+    <string name="savePwd">自动登录</string>
+    <string-array name="spinnername">  
+        <item>综合查询</item>  
+        <item>焊装下线按车型</item>  
+        <item>面漆上线按颜色</item>  
+        <item>涂装下线按颜色</item>  
+        <item>总装上线按车型</item>  
+    </string-array>  
+    <!-- 版本更新 -->
+	<string name="soft_update_title">软件更新</string>
+    <string name="soft_update_info">检测到新版本，立即更新吗？</string>
+    <string name="soft_update_updatebtn">更新</string>
+    <string name="soft_update_later">稍后更新</string>
+    <string name="soft_updating">正在更新</string>
+    <string name="soft_update_cancel">取消</string>
+</resources>
